@@ -38,7 +38,7 @@ Follow these steps to get the application up and running on your local machine:
 
 2. **Navigate to the Project Directory and Install Dependencies:**
    ```bash
-    cd react-quiz-app
+    cd quiz-app
     npm install
 
 3. **Start the Development Server:**
